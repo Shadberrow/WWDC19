@@ -5,3 +5,6 @@
 - [x] [Advances in UI Data Sources](https://developer.apple.com/videos/play/wwdc2019/220/)
 - [x] [Advances in Collection View Layout](https://developer.apple.com/videos/play/wwdc2019/215/)
 - [x] [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/)
+- [ ] [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
+- [ ] [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
+- [ ] [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237/)
