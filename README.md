@@ -8,3 +8,4 @@
 - [x] [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
 - [ ] [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
 - [x] [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237/)
+- [ ] [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216/)
